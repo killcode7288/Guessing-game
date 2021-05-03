@@ -54,6 +54,6 @@ while True:
 		print("\nHurray....🥳🥳🥳" + name )
 		print("\nyour score was", score)
 		print("\nYou've completed this game, please wait for more updates to continue playing")
-		print("\nHope you enjoyed this game?")
+		print("\nHope you enjoyed this game 🤩🤩🤩")
 	break
 	
